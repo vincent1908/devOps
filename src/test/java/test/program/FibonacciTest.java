@@ -5,7 +5,7 @@ public class FibonacciTest {
 	public static void main(String[] args) {
 
 		int a = 0, b = 1, c, count=10;
-		// new1 comment
+		// riya comment
 
 		System.out.print(a+" "+b+" ");
 		

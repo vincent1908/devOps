@@ -1,10 +1,12 @@
 package test.program;
 
+import org.testng.annotations.Test;
+
 public class FibonacciTest {
+@Test
+	public static void main() {
 
-	public static void main(String[] args) {
-
-		int a = 0, b = 1, c, count=15;
+		int a = 0, b = 1, c, count=20;
 // gregory comment
 		// riya comment
 

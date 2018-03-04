@@ -6,7 +6,7 @@ public class FibonacciTest {
 @Test
 	public static void main() {
 // new count
-		int a = 0, b = 1, c, count=10;
+		 a = 0, b = 1, c, count=10;
 // gregory comment
 		// riya comment
 

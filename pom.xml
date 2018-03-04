@@ -2,5 +2,15 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com</groupId>
   <artifactId>Javas</artifactId>
+    <dependencies>
+  
+  <dependency>
+  <groupId>org.testng</groupId>
+  <artifactId>testng</artifactId>
+  <version>6.8</version>
+  <scope>test</scope>
+</dependency>
+      </dependencies>
+  
   <version>0.0.1-SNAPSHOT</version>
 </project>

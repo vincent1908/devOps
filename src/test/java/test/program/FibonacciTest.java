@@ -5,8 +5,8 @@ import org.testng.annotations.Test;
 public class FibonacciTest {
 @Test
 	public static void main() {
-
-		int a = 0, b = 1, c, count=20;
+// new count
+		int a = 0, b = 1, c, count=10;
 // gregory comment
 		// riya comment
 

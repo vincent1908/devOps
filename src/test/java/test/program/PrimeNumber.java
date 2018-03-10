@@ -5,7 +5,7 @@ public class PrimeNumber {
 	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 
-		int num = 29;
+		int num = 28;
 
 		// 2 29/2 ++
 		// num%i
@@ -15,10 +15,9 @@ public class PrimeNumber {
 		for (int i = 2; i <= num / 2; i++) {
 			if (num % i == 0)
 				System.out.println(i);
-				break;
+			break;
 		}
-		
-		
+		System.out.println("end");
 
 	}
 

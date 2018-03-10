@@ -1,5 +1,6 @@
 package test.program;
 
+import org.junit.Assert;
 import org.testng.annotations.Test;
 
 public class FibonacciTest {
@@ -7,8 +8,7 @@ public class FibonacciTest {
 	public static void main() {
 // new count
 		int a = 0, b = 1, c, count=10;
-// gregory comment
-		// riya comment
+
 
 		System.out.print(a+" "+b+" ");
 		
@@ -17,6 +17,7 @@ public class FibonacciTest {
 			System.out.print(c+" ");
 			a=b;
 			b=c;
+		
 		}
 	}
 
